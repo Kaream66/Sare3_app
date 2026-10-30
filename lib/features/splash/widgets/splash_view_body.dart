@@ -3,8 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:sare3_app/core/routes.dart';
 
-import 'package:flutter/material.dart';
-
 class SplashViewBody extends StatefulWidget {
   const SplashViewBody({super.key});
 
@@ -17,6 +15,7 @@ class _SplashViewBodyState extends State<SplashViewBody> with SingleTickerProvid
 
   late Animation<double> slideAnimation;
   late Animation<double> scaleAnimation;
+  // ignore: unused_field
   Timer? _timer;
   @override
   void initState() {
