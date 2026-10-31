@@ -46,7 +46,7 @@ class _SplashViewBodyState extends State<SplashViewBody> with SingleTickerProvid
   }
 
   void _goNext() {
-    Navigator.pushReplacementNamed(context, Routes.homeViewRoute);
+    Navigator.pushReplacementNamed(context, Routes.onboardingRoute);
   }
 
   @override
