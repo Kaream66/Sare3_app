@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:sare3_app/core/routes.dart';
+import 'package:sare3_app/core/helpers/routes.dart';
 
 class SplashViewBody extends StatefulWidget {
   const SplashViewBody({super.key});

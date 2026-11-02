@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sare3_app/core/routes.dart';
+import 'package:sare3_app/core/helpers/routes.dart';
 import 'package:sare3_app/features/splash/views/spalsh_view.dart';
 
 void main() {
